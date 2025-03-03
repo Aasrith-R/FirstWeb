@@ -7,5 +7,5 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
-  base: '/FIRST-website/'
+  base: '/FirstWeb/'
 });
