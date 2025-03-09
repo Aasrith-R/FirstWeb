@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://hussainn7.github.io/FIRST-website",
+  "homepage": "https://aasrith-r.github.io/FirstWeb/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
